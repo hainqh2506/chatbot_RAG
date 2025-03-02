@@ -99,10 +99,11 @@ Dưới đây là một số hình ảnh và video minh họa cách chatbot ho�
   ![](img/demo4.png)
 
 - **Video demo**:
-  ![Xem video demo](img/demo_chatbot.mp4)
+  [📽️ Xem video trên Google Drive](https://drive.google.com/file/d/1JdSI96J7Axl39Cwo2TPiWPP00pvWK0-9/view?usp=sharing)
 
 - **Video demo về FAQ DB và Spam**:
-  ![Xem video demo](img/default_answer_spam.mp4)
+  [📽️ Xem video trên Google Drive](https://drive.google.com/file/d/1VgRbdkQTRqjPwX2qaRB-nAWbZ7aotpnr/view?usp=drive_link)
+
 ---
 
 ## Kết quả và đánh giá
