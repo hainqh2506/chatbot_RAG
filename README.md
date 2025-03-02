@@ -60,7 +60,7 @@ Hệ thống chatbot được xây dựng để:
 - Python 
 - Database: Elastic Search
 - Embedding model: SBERT
-- LLM: GEMINI 1.5 flash, LLAMA 3.3 7-B, ChatGPT4o..
+- LLM: GEMINI 1.5 flash, LLAMA 3.3 70-B, ChatGPT4o..
 - Framework: Langchain
 - UI: Streamlit
 - Docker
